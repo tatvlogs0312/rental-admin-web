@@ -1,0 +1,36 @@
+.app--ultility--action {
+    display: flex;
+}
+
+.app--ultility--action > div {
+    padding: 10px;
+    cursor: pointer;
+}
+
+.app--utilily {
+    width: calc(100% - 200px);
+    margin: 20px auto;
+    background: white;
+    padding: 30px;
+    border-radius: 25px;
+}
+
+.app--utilily--title {
+    margin-bottom: 20px;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.app--utilily--banner {
+    display: flex;
+    justify-content: space-between;
+}
+
+.app--utilily--btn--add {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}

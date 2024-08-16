@@ -1,0 +1,22 @@
+.app--utilily--add {
+    width: 500px;
+    margin: 50px auto;
+    padding: 25px;
+    border-radius: 25px;
+    background-color: white;
+    box-shadow: 10px 10px rgb(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.app--utility--form--add {
+    width: 90%;
+    margin: auto;
+}
+
+.app--utilily--add--title {
+    margin-bottom: 20px;
+    font-size: 30px;
+    font-weight: 600;
+}

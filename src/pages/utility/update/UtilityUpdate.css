@@ -1,0 +1,22 @@
+.app--utilily--update {
+    width: 500px;
+    margin: 50px auto;
+    padding: 25px;
+    border-radius: 25px;
+    background-color: white;
+    box-shadow: 10px 10px rgb(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.app--utility--form--update {
+    width: 90%;
+    margin: auto;
+}
+
+.app--utilily--update--title {
+    margin-bottom: 20px;
+    font-size: 30px;
+    font-weight: 600;
+}

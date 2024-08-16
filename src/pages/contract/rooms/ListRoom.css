@@ -1,0 +1,8 @@
+.app--room--list {
+  width: calc(100% - 200px);
+  margin: 20px auto;
+  background: white;
+  padding: 50px 80px;
+  box-sizing: border-box;
+  border-radius: 25px;
+}

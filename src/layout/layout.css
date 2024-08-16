@@ -1,0 +1,15 @@
+.app--layout {
+    display: flex;
+}
+
+.app--main {
+    width: calc(100% - 250px);
+    background-color: #74b9ff;
+    margin-left: 250px;
+    min-height: 100vh;
+}
+
+.app--menu {
+    width: 250px;
+    position: fixed;
+}

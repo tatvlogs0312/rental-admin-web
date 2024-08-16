@@ -1,0 +1,22 @@
+.app--room--add {
+    width: 30%;
+    margin: 50px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: white;
+    border-radius: 25px;
+    /* border: 1px solid black; */
+    box-shadow: 5px 5px rgb(0, 0, 0, 0.5);
+}
+
+.app--room--form--add {
+    width: 70%;
+    margin: auto;
+}
+
+.app--room--add--title {
+    font-size: 30px;
+    font-weight: 600;
+    margin: 20px 0;
+}

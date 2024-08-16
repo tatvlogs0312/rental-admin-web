@@ -1,0 +1,27 @@
+.app--contract--create {
+  width: calc(100% - 500px);
+  margin: 20px auto;
+  background: white;
+  padding: 50px 80px;
+  box-sizing: border-box;
+  border-radius: 25px;
+}
+
+.app--contract--create--form {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  flex-direction: column;
+  align-content: flex-start;
+}
+
+.app--contract--create--form > div {
+  margin: 20px 0px;
+  width: 100%;
+}
+
+.app--contract--create--title {
+  margin-bottom: 20px;
+  font-size: 30px;
+  font-weight: 600;
+}

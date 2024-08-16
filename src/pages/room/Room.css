@@ -1,0 +1,51 @@
+.app--room--detail {
+    width: calc(100% - 200px);
+    margin: 20px auto;
+    background: white;
+    padding: 30px;
+    border-radius: 25px;
+}
+
+.app--room--action {
+    display: flex;
+}
+
+.app--room--action > div {
+    padding: 10px;
+    cursor: pointer;
+}
+
+.app--room--title {
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.app--room--banner {
+    display: flex;
+    justify-content: space-between;
+}
+
+.app--room--btn--add {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+
+.app--room-table {
+    margin-top: 20px;
+    padding-top: 20px;
+    border-top: 1px solid black;
+}
+
+.app--house--info > div {
+    margin: 5px 0px;
+}
+
+.app--room--detail--title {
+    font-size: 30px;
+    margin-bottom: 20px;
+    font-weight: 600;
+}

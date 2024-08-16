@@ -1,0 +1,20 @@
+:root {
+    --app-color: #0984e3;
+    --app-font-weight: 600;
+}
+
+.app--menu--detail {
+    color: var(--app-color);
+    font-weight: var(--app-font-weight);
+}
+
+.app--name {
+    color: var(--app-color);
+    font-weight: 800;
+    font-size: 30px;
+}
+
+.app--menu--detail a {
+    color: var(--app-color);
+    font-weight: var(--app-font-weight);
+}

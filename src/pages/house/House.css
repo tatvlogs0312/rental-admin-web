@@ -1,0 +1,35 @@
+.app--house--action {
+    display: flex;
+}
+
+.app--house--action > div {
+    padding: 10px;
+    cursor: pointer;
+}
+
+.app--house {
+    width: calc(100% - 200px);
+    margin: 20px auto;
+    background: white;
+    padding: 30px;
+    border-radius: 25px;
+}
+
+.app--house--title {
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.app--house--banner {
+    display: flex;
+    justify-content: space-between;
+}
+
+.app--house--btn--add {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}

@@ -1,0 +1,18 @@
+.app--contract--detail {
+  width: calc(100% - 200px);
+  margin: 20px auto;
+  background: white;
+  padding: 50px 80px;
+  box-sizing: border-box;
+  border-radius: 25px;
+}
+
+.app--contract--detail--room {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.app--contract--detail--room > div {
+  margin: 20px 0;
+}
